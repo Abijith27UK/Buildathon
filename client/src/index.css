@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Roboto:wght@300;400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* body {
+  @apply bg-gray-900 font-roboto;
+}
+
+h1, h2, h3 {
+  @apply font-orbitron  bg-clip-text ;
+}
+
+p {
+  @apply text-gray-300 leading-relaxed font-roboto;
+} */
